@@ -1,0 +1,9 @@
+stop_id,stop_name,stop_lat,stop_lon
+10001,DEÜ Tınaztepe Kampüsü Son Durak,38.3712,27.1963
+10002,Hasanağa Parkı ESHOT Durağı,38.3840,27.1650
+10003,Buca Koop Meydan Durağı,38.3780,27.1820
+10004,Şirinyer İZBAN İstasyonu,38.3910,27.1540
+10005,Dokuz Eylül Rektörlük Durağı,38.3880,27.1610
+10006,Buca Üçkuyular Meydan Durağı,38.3810,27.1720
+10007,Tınaztepe Giriş (Kuruçeşme Durağı),38.3735,27.1910
+10008,İzmir Çevreyolu Buca Bağlantısı,38.3690,27.1850
